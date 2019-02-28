@@ -524,7 +524,7 @@ div.loading {
     position: absolute;
     width: 6px;
     height: 6px;
-    background: #facd8a;
+    background: #ff8520;
     left: 0px;
     top: 0px;
     border-radius: 6px;
@@ -534,7 +534,7 @@ div.loading {
     position: absolute;
     width: 6px;
     height: 6px;
-    background: #2976bf;
+    background: #209aff;
     left: 0px;
     top: 0px;
     border-radius: 6px;
