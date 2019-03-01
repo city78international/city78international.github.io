@@ -76,9 +76,6 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 0;
 }
 
 button:hover,
@@ -442,7 +439,7 @@ html.fp-enabled {
     font-size: 14px;
     font-weight: 400;
     text-transform: uppercase;
-    color: #d17e1c;
+    color: #facd8a;
     -webkit-transition: 0.5s;
     transition: 0.5s;
     position: relative;
@@ -774,7 +771,7 @@ div.loading {
     font-size: 16px;
     line-height: 29px;
     color: rgba(149, 165, 187, 0.8);
-    background-image: url('../img/Asset%204arrows.png');
+    background-image: url('../cooldotlines.png');
     background-repeat: repeat;
     background-position: center center;
     background-size: cover;
@@ -783,14 +780,13 @@ div.loading {
 
 .footer a {
     display: block;
-    padding-bottom: 0px;
 }
 
 /* footer title section */
 .footer-title {
     font-family: "Poppins", sans-serif;
     text-transform: uppercase;
-    padding-bottom: px;
+    padding-bottom: 40px;
 }
 
 /* footer nav section style */
@@ -2786,7 +2782,7 @@ mousecontainer {
 @media (max-width:767px) {
     .triangledown {
         max-width: 84%;
-        margin-left: 11%;
+        margin-left: 21%;
         max-height: 300px;
     }
 }

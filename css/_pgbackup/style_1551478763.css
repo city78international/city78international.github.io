@@ -76,9 +76,6 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 0;
 }
 
 button:hover,
@@ -459,7 +456,7 @@ html.fp-enabled {
     height: 1px;
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    background: #facd8a;
+    background: #d17e1c;
 }
 
 .menu li a:hover {
@@ -774,7 +771,7 @@ div.loading {
     font-size: 16px;
     line-height: 29px;
     color: rgba(149, 165, 187, 0.8);
-    background-image: url('../img/Asset%204arrows.png');
+    background-image: url('../cooldotlines.png');
     background-repeat: repeat;
     background-position: center center;
     background-size: cover;
@@ -783,14 +780,13 @@ div.loading {
 
 .footer a {
     display: block;
-    padding-bottom: 0px;
 }
 
 /* footer title section */
 .footer-title {
     font-family: "Poppins", sans-serif;
     text-transform: uppercase;
-    padding-bottom: px;
+    padding-bottom: 40px;
 }
 
 /* footer nav section style */

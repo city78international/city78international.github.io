@@ -197,14 +197,15 @@ hero-image-pastpres {
     color: #333333;
 }
 
-/* .special_container {
+.special_container {
     width: 90vw;
     position: relative;
     left: 55%;
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
-} */
+}
+
 .hundredtopicstext {
     padding: 0px 30px;
 }
@@ -312,7 +313,4 @@ hero-image-pastpres {
     .rowpushupanddown {
         margin-top: 60px;
     }
-}
-
-.img-content {
 }
