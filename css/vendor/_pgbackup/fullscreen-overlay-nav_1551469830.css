@@ -1,7 +1,3 @@
-padding-left: 88px;
-padding-right: 20px;
-margin-left: 0px;
-
 .scroll-downs {
     position: absolute;
     top: 0;
@@ -312,5 +308,13 @@ hero-image-pastpres {
 @media (min-width: 992px) {
     .rowpushupanddown {
         margin-top: 60px;
+    }
+}
+
+@media (min-width:1024px) {
+    .futuretextaligned {
+        padding-left: 88px;
+        padding-right: 20px;
+        margin-left: 0px;
     }
 }

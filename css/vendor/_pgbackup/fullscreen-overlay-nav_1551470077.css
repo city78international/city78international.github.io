@@ -314,3 +314,10 @@ hero-image-pastpres {
         margin-top: 60px;
     }
 }
+
+@media (min-width:1024px) {
+    .futuretextaligned {
+        padding-left: 88px;
+        padding-right: 20px;
+    }
+}

@@ -147,13 +147,13 @@ button:focus {
 }
 
 /* mouse scrolling */
-@media (max-width:1366px){
+@media (max-width:767px){
     .mouse {
         visibility: hidden;
     }
 }
 
-@media (min-width:1366px){
+@media (min-width:767px){
     .mouse {
         visibility: show;
     }
@@ -166,7 +166,6 @@ button:focus {
 #mouse-scroll {
     position: fixed;
     margin: auto;
-    padding-left: 50%;
     bottom: 14%;
 }
 
