@@ -310,5 +310,7 @@ hero-image-pastpres {
 
 @media (max-width: 992px {
     .heromediaquery {
+        padding-top: 500px;
+        margin-top: 200px;
     }
 }

@@ -393,7 +393,7 @@ html.fp-enabled {
     bottom: 0;
     height: 3px;
     width: 70px;
-    background: #E38829;
+    background: #facd8a;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
 }

@@ -167,7 +167,7 @@ button:focus {
     position: fixed;
     margin: auto;
     left: 50%;
-    bottom: 14%;
+    bottom: 15%;
 }
 
 #mouse-scroll span {
@@ -393,7 +393,7 @@ html.fp-enabled {
     bottom: 0;
     height: 3px;
     width: 70px;
-    background: #E38829;
+    background: #facd8a;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
 }
@@ -417,7 +417,7 @@ html.fp-enabled {
  */
 /*logo style*/
 .navigation {
-    background: rgba(9, 36, 67, 0.7) none repeat scroll 0 0;
+    background: rgba(97, 114, 134, 0.5) none repeat scroll 0 0;
     margin-bottom: 0;
     border-bottom: 0;
     padding: 20px 0;
@@ -443,7 +443,6 @@ html.fp-enabled {
     -webkit-transition: 0.5s;
     transition: 0.5s;
     position: relative;
-    font-family: Roboto;
 }
 
 .menu li a:before {
@@ -906,7 +905,6 @@ div.loading {
     text-transform: uppercase;
     color: #df983b;
     font-weight: bold;
-    top: -1px;
 }
 
 .case-study .content p {
@@ -933,7 +931,8 @@ div.loading {
 
 /* Case Study Description Style */
 .case-study-content {
-    padding-bottom: 93px;
+    padding-top: 58px;
+    padding-bottom: 90px;
 }
 
 .case-study-content:nth-child(odd) {
@@ -977,7 +976,7 @@ div.loading {
  */
 .hero-area {
     height: 100vh;
-    min-height: 200vh;
+    min-height: 100vh;
     background-size: cover;
     display: -webkit-box;
     display: -ms-flexbox;

@@ -300,15 +300,3 @@ hero-image-pastpres {
 
 .colpushdown {
 }
-
-@media (max-width: 411px {
-    .heromediaquery {
-        padding-top: 500px;
-        margin-top: 200px;
-    }
-}
-
-@media (max-width: 992px {
-    .heromediaquery {
-    }
-}

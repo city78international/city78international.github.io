@@ -298,17 +298,14 @@ hero-image-pastpres {
     }
 }
 
-.colpushdown {
-}
-
-@media (max-width: 411px {
-    .heromediaquery {
-        padding-top: 500px;
-        margin-top: 200px;
+@media (max-width: 992px) {
+    .colpushdown {
+        margin-top: 60%;
     }
 }
 
-@media (max-width: 992px {
-    .heromediaquery {
+@media (max-width: 422px) {
+    .colpushdown {
+        padding-top: -200px;
     }
 }
