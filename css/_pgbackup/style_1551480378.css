@@ -47,7 +47,10 @@ h4 {
 
 p {
     font-family: "Roboto", sans-serif;
-    color: #000000;
+    color: #a3a3a3;
+    font-size: 16px;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 /*---------- --------------
@@ -76,6 +79,9 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
 }
 
 button:hover,
@@ -147,13 +153,13 @@ button:focus {
 }
 
 /* mouse scrolling */
-@media (max-width:767px){
+@media (max-width:1366px){
     .mouse {
         visibility: hidden;
     }
 }
 
-@media (min-width:767px){
+@media (min-width:1366px){
     .mouse {
         visibility: show;
     }
@@ -166,7 +172,7 @@ button:focus {
 #mouse-scroll {
     position: fixed;
     margin: auto;
-    left: 50%;
+    padding-left: 50%;
     bottom: 14%;
 }
 
@@ -439,7 +445,7 @@ html.fp-enabled {
     font-size: 14px;
     font-weight: 400;
     text-transform: uppercase;
-    color: #facd8a;
+    color: #d17e1c;
     -webkit-transition: 0.5s;
     transition: 0.5s;
     position: relative;
@@ -771,7 +777,7 @@ div.loading {
     font-size: 16px;
     line-height: 29px;
     color: rgba(149, 165, 187, 0.8);
-    background-image: url('../cooldotlines.png');
+    background-image: url('../img/Asset%204arrows.png');
     background-repeat: repeat;
     background-position: center center;
     background-size: cover;
@@ -780,13 +786,14 @@ div.loading {
 
 .footer a {
     display: block;
+    padding-bottom: 0px;
 }
 
 /* footer title section */
 .footer-title {
     font-family: "Poppins", sans-serif;
     text-transform: uppercase;
-    padding-bottom: 40px;
+    padding-bottom: px;
 }
 
 /* footer nav section style */
@@ -2779,11 +2786,19 @@ form .padding-left-15 {
 mousecontainer {
 }
 
+@media (max-width:767px) {
+    .triangledown {
+        max-width: 84%;
+        margin-left: 11%;
+        max-height: 300px;
+    }
+}
+
 @media (min-width:767px) {
     .triangledown {
         max-width: 84%;
         margin-left: 8%;
-        max-height: 400px;
+        max-height: 300px;
     }
 }
 
