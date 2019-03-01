@@ -122,6 +122,14 @@ button:focus {
     margin-top: 20px;
 }
 
+.lead {
+    font-family: Poppins;
+    font-weight: normal;
+    margin-top: -10px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
 /* client logos */
 .imageofclients:hover .imgclientlogo {
     opacity: 0.1;
@@ -1262,7 +1270,7 @@ hr.hr-border {
 
 .team-overlay p {
     margin: 0;
-    padding: 1% 0%;
+    padding: 20px 0;
 }
 
 .team-title,

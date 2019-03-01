@@ -105,9 +105,8 @@ button:focus {
     border-radius: 10px;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    color: white !important;
     height: 340px;
-    background-image: url('../art12.png');
-    background-size: cover;
 }
 
 .page-scroll {
@@ -120,6 +119,13 @@ button:focus {
     border-radius: 0px;
     font-weight: 100;
     margin-top: 20px;
+}
+
+.lead {
+    font-family: Poppins;
+    font-weight: 100;
+    margin-top: -10px;
+    color: #ffffff;
 }
 
 /* client logos */
@@ -1262,7 +1268,7 @@ hr.hr-border {
 
 .team-overlay p {
     margin: 0;
-    padding: 1% 0%;
+    padding: 20px 0;
 }
 
 .team-title,

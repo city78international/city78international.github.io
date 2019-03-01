@@ -218,8 +218,8 @@ hero-image-pastpres {
 }
 
 .aboutsectionhead {
-    height: 80vh;
-    min-height: 80vh;
+    height: 90vh;
+    min-height: 100vh;
     background-size: cover;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -231,35 +231,4 @@ hero-image-pastpres {
     -ms-flex-align: center;
     align-items: center;
     text-align: center;
-}
-
-.aboutcasestudy {
-    padding-top: 15px;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    /* background-image: url('../trianglify.svg');*/
-    background-color: #ffffff;
-}
-
-.threecoltitle {
-    font-size: 28px;
-}
-
-.jumbofont {
-    font-family: Poppins;
-    font-size: 15px;
-}
-
-.testingjumbo {
-    font-family: Poppins;
-    font-size: 50px;
-    color: #ffffff;
-    line-height: 40px;
-    font-weight: normal;
-}
-
-.portfolioinfo {
-    padding: 0px;
-    margin: 0px;
 }

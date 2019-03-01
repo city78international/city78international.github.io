@@ -245,21 +245,3 @@ hero-image-pastpres {
 .threecoltitle {
     font-size: 28px;
 }
-
-.jumbofont {
-    font-family: Poppins;
-    font-size: 15px;
-}
-
-.testingjumbo {
-    font-family: Poppins;
-    font-size: 50px;
-    color: #ffffff;
-    line-height: 40px;
-    font-weight: normal;
-}
-
-.portfolioinfo {
-    padding: 0px;
-    margin: 0px;
-}
