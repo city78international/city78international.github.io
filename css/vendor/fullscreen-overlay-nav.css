@@ -213,11 +213,6 @@ hero-image-pastpres {
 }
 
 .casestudyimg {
-    max-width: 80%;
-    margin-left: 10%;
-    max-height: 90%;
-    margin-top: 5%;
-    margin-bottom: 5%;
 }
 
 .aboutsectionhead {
@@ -347,4 +342,8 @@ hero-image-pastpres {
 
 .footerlinks {
     color: #ffffff;
+}
+
+.numscroller {
+    color: #000000;
 }
