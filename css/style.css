@@ -5612,6 +5612,7 @@ input[type="button"].btn-block {
     padding-right: 0;
     padding-left: 0;
     border-radius: 0;
+    background-image: url('../images/jefferson.jpg');
 }
 
 .alert {
@@ -10953,8 +10954,8 @@ h5,
 
 .btn.btn-primary {
     background: #d291bc;
-    border: 1px solid #d291bc !important;
     color: #fff;
+    border: 1px solid #e78725;
 }
 
 .btn.btn-primary:hover {
@@ -11557,7 +11558,7 @@ textarea.form-control {
 }
 
 .ftco-section {
-    padding: 7em 0;
+    padding: 3em 0;
     position: relative;
 }
 

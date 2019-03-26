@@ -946,3 +946,9 @@
 .oi-zoom-out:before {
     content: '\e0de';
 }
+
+.colforsampletitles {
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
